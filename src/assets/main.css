@@ -1,2 +1,6 @@
 @import './base.css';
 @import 'bootstrap';
+
+.container {
+    margin-top: 50px; /* Тут ви можете змінювати відступ зверху за потребою */
+}
